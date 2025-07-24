@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NRLGame" group-title="Sports",NRL: Cowboys vs Dragons
+https://rr.strmd.top/secure/ECQHvlDfqs/alpha/stream/nq-cowboys-vs-st-george-illawarra-dragons/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel9" group-title="Australia",Channel 9 (9Now Live)
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
