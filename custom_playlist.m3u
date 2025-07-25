@@ -5,3 +5,30 @@ https://rr.strmd.top/secure/ECQHvlDfqs/alpha/stream/nq-cowboys-vs-st-george-illa
 
 #EXTINF:-1 tvg-id="Channel9" group-title="Australia",Channel 9 (9Now Live)
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 tvg-id="Stream1" group-title="Premium",Premium Stream 742
+https://nfsnew.newkso.ru/nfs/premium742/mono.m3u8
+
+#EXTINF:-1 tvg-id="Stream2" group-title="Sports",Sport Video Data 1
+https://jn187.sportvideodata.com/3994697347_AO1NTbuQ3cpxWehxGcvkTbhVmc0N3Lx82Lt92YuUWbhdGN0Z2bz5ibkNmY/o9-v1.m3u8?sign=R0cHM6Ly9ibGxvdmRlcy5kNHNzZ2suc3UvbzEvc3RyZWFtOS9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9MTQyODk4OTA4JHwkMTUaH
+
+#EXTINF:-1 tvg-id="Stream3" group-title="Premium",Premium Stream 820
+https://zekonew.newkso.ru/zeko/premium820/mono.m3u8
+
+#EXTINF:-1 tvg-id="Stream4" group-title="YouAreSoSelfish",Director Stream 1
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZTAyYTVhMGZlN2NkLWIzYWItYjM2NC1mM2RhLWNlYjQzZGJk/master.m3u8?md5=VdpjjoDcQ4S-ll9Fku9xmg&expires=1753453155&t=1753409955
+
+#EXTINF:-1 tvg-id="Stream5" group-title="YouAreSoSelfish",Variant Stream 1
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LlBjMhVTYwYWZ3MGZtI2MhJWLiNjN00iZzQWYtMWZiRzMkJGZ/master.m3u8
+
+#EXTINF:-1 tvg-id="Stream6" group-title="YouAreSoSelfish",Director Stream 2
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1OGNlYzgyYWRlMjhjLTgwODgtNDYzNC1mZmM2LTA0NjRiOGY0/master.m3u8?md5=nfNNBsCk9nLv9hmVc6evuA&expires=1753453268&t=1753410068
+
+#EXTINF:-1 tvg-id="Stream7" group-title="YouAreSoSelfish",Variant Stream 2
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4MWZjhjMhRWZygzYtgDM4gTL0YzM00iZmNmNtADN2QjY4YGN/master.m3u8
+
+#EXTINF:-1 tvg-id="Stream8" group-title="YouAreSoSelfish",Variant Stream 3
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZWM2IzN1EDO4AzYtYWZwkTLwEGM00iMwEGZtEDZzQWM2ITO/master.m3u8
+
+#EXTINF:-1 tvg-id="Stream9" group-title="YouAreSoSelfish",Director Stream 3
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGYxNjI3NTE4ODBjLWZlMDktMGEwNC0yMGFkLTFkM2QxNjI5/master.m3u8?md5=gbRiMt76DlhnNX7MU8CEsg&expires=1753453493&t=1753410293
